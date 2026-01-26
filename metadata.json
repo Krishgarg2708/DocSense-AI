@@ -1,0 +1,5 @@
+{
+  "name": "DocuMind RAG Assistant",
+  "description": "A production-ready document retrieval-augmented generation (RAG) system using Firebase and Gemini API.",
+  "requestFramePermissions": []
+}
